@@ -1,0 +1,84 @@
+track WT
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/WT-1.bw
+shortLabel WT
+longLabel WT - WT-1.bw
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 45,64,89
+priority 10
+
+track DKO
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/DKO-1.bw
+shortLabel DKO
+longLabel DKO - DKO-1.bw
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 255,170,100
+priority 20
+
+track 3CTKO
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/240125-3ABCKO.bw
+shortLabel 3CTKO
+longLabel 3CTKO - 240125-3ABCKO.bw
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 255,170,100
+priority 30
+
+track 3CTKO-3COE
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/3CTKO-3COE-3.bw
+shortLabel 3CTKO-3COE
+longLabel 3CTKO-3COE - 3CTKO-3COE-3.bw
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 247,56,89
+priority 40
+
+track 3CTKO-3CHA
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/3CTKO-3CHA-10.bw
+shortLabel 3CTKO-3CHA
+longLabel 3CTKO-3CHA - 3CTKO-3CHA-10.bw
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 0,0,0
+priority 50
+
+track WT_E13.5
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/WT_E13.5.bw
+shortLabel WT_E13.5
+longLabel WT_E13.5 - WT_E13.5.bw
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 0,173,181
+priority 60
+
+track PKO_Dnmt1KO_Dnmt1OE
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/PKO_Dnmt1KO_Dnmt1OE_SRR7459045.bw
+shortLabel PKO_Dnmt1KO_Dnmt1OE
+longLabel PKO_Dnmt1KO_Dnmt1OE - PKO_Dnmt1KO_Dnmt1OE_SRR7459045.bw
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 0,173,181
+priority 70
+
+track RMR
+type bigBed
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/rmr.bed
+shortLabel RMR
+longLabel RMR - rmr.bed
+visibility full
+priority 80
