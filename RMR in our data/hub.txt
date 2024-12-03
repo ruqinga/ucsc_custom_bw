@@ -85,8 +85,8 @@ priority 70
 
 track RMR
 type bigBed
-bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/rmr.bed
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/rmr_filter.bb
 shortLabel RMR
-longLabel RMR - rmr.bed
+longLabel RMR - rmr_filter.bb
 visibility full
 priority 80
