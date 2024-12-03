@@ -4,6 +4,8 @@ UCSC Genome Informatics Hub for DNase and CUT&RUN data
 useOneFile on
 email leixy2023@shanghaitech.edu.cn
 
+genome mm10
+
 track WT
 type bigWig
 bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/WT-1.bw
