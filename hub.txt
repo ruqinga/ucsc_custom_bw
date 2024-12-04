@@ -179,15 +179,3 @@ viewLimits 0:20
 color 244,162,97
 priority 180
 
-track 3CTKO-3CHA-rep2
-type bigWig
-bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/rnaseq/Ab-RNA-TKO-3CHA-2.bw
-shortLabel 3CTKO-3CHA-rep2
-longLabel 3C TKO 3CHA RNA-Seq Rep2
-visibility full
-autoScale off
-viewLimits 0:20
-color 244,162,97
-priority 190
-
-
