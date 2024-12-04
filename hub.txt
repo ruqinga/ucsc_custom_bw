@@ -1,6 +1,6 @@
 hub Name
-shortLabel RMR in ourdata
-longLabel RMR in ourdata
+shortLabel Dnmt3C_data_archive
+longLabel Dnmt3C_data_archive
 useOneFile on
 email leixy2023@shanghaitech.edu.cn
 
@@ -41,9 +41,9 @@ priority 30
 
 track 3CTKO-3COE
 type bigWig
-bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/RMR%20in%20our%20data/3CTKO-3COE-3.bw
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a55616c1cc8ccc14/display?to_ext=bigwig
 shortLabel 3CTKO-3COE
-longLabel 3CTKO-3COE - 3CTKO-3COE-3.bw
+longLabel 20241129-3CTKO-3COE-18 .bw
 visibility full
 autoScale off
 viewLimits 0:1.0
@@ -90,3 +90,104 @@ shortLabel RMR
 longLabel RMR - rmr_filter.bb
 visibility full
 priority 80
+
+track WT
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/rnaseq/Ab-RNA-WT.bw
+shortLabel WT
+longLabel WT RNA-Seq
+visibility full
+autoScale off
+viewLimits 0:20
+color 38,70,83
+priority 110
+
+track DKO-rep1
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/rnaseq/Ab-RNA-DKO.bw
+shortLabel DKO-rep1
+longLabel DKO RNA-Seq Rep1
+visibility full
+autoScale off
+viewLimits 0:20
+color 38,70,83
+priority 120
+
+track name=DKO-rep2
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/rnaseq/Ab-RNA-DKO-2.bw
+shortLabel DKO-rep2
+longLabel DKO RNA-Seq Rep2
+visibility full
+autoScale off
+viewLimits 0:20
+color 38,70,83
+priority 130
+
+track name=3CTKO-rep1
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/rnaseq/Ab-RNA-TKO.bw
+shortLabel 3CTKO-rep1
+longLabel 3C TKO RNA-Seq Rep1
+visibility full
+autoScale off
+viewLimits 0:20
+color 42,157,143
+priority 140
+
+track name=3CTKO-rep2
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/rnaseq/Ab-RNA-TKO-2.bw
+shortLabel 3CTKO-rep2
+longLabel 3C TKO RNA-Seq Rep2
+visibility full
+autoScale off
+viewLimits 0:20
+color 42,157,143
+priority 150
+
+track name=3CTKO-3C-rep1
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/rnaseq/Ab-RNA-TKO-3C.bw
+shortLabel 3CTKO-3C-rep1
+longLabel 3C TKO 3C RNA-Seq Rep1
+visibility full
+autoScale off
+viewLimits 0:20
+color 231,111,81
+priority 160
+
+track name=3CTKO-3C-rep2
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/rnaseq/Ab-RNA-TKO-3C-2.bw
+shortLabel 3CTKO-3C-rep2
+longLabel 3C TKO 3C RNA-Seq Rep2
+visibility full
+autoScale off
+viewLimits 0:20
+color 231,111,81
+priority 170
+
+track name=3CTKO-3CHA-rep1
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/rnaseq/Ab-RNA-TKO-3CHA.bw
+shortLabel 3CTKO-3CHA-rep1
+longLabel 3C TKO 3CHA RNA-Seq Rep1
+visibility full
+autoScale off
+viewLimits 0:20
+color 244,162,97
+priority 180
+
+track name 3CTKO-3CHA-rep2
+type bigWig
+bigDataUrl https://github.com/ruqinga/ucsc_custom_bw/raw/refs/heads/main/rnaseq/Ab-RNA-TKO-3CHA-2.bw
+shortLabel 3CTKO-3CHA-rep2
+longLabel 3C TKO 3CHA RNA-Seq Rep2
+visibility full
+autoScale off
+viewLimits 0:20
+color 244,162,97
+priority 190
+
+
