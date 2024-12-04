@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="mm10" locus="chr1:126694329-129573546" version="8">
+    <Resources>
+        <Resource path="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-WT.bw" type="bw"/>
+        <Resource path="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO-3C.bw" type="bw"/>
+        <Resource path="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO.bw" type="bw"/>
+        <Resource path="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO-2.bw" type="bw"/>
+        <Resource path="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-DKO.bw" type="bw"/>
+        <Resource path="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO-3C-2.bw" type="bw"/>
+        <Resource path="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO-3CHA-2.bw" type="bw"/>
+        <Resource path="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO-3CHA.bw" type="bw"/>
+        <Resource path="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-DKO-2.bw" type="bw"/>
+    </Resources>
+    <Panel height="476" name="DataPanel" width="1117">
+        <Track attributeKey="Ab-RNA-WT.bw" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="38,70,83" fontSize="10" id="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-WT.bw" name="WT" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="62.110153" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="Ab-RNA-DKO.bw" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="38,70,83" fontSize="10" id="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-DKO.bw" name="DKO-rep1" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="77.48531" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="Ab-RNA-DKO-2.bw" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="38,70,83" fontSize="10" id="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-DKO-2.bw" name="DKO-rep2" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="70.504814" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="Ab-RNA-TKO.bw" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="42,157,143" fontSize="10" id="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO.bw" name="3CTKO-rep1" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="51.860607" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="Ab-RNA-TKO-2.bw" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="42,157,143" fontSize="10" id="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO-2.bw" name="3CTKO-rep2" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="47.884567" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="Ab-RNA-TKO-3C.bw" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="231,111,81" fontSize="10" id="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO-3C.bw" name="3CTKO-3C-rep1" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="91.472725" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="Ab-RNA-TKO-3C-2.bw" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="231,111,81" fontSize="10" id="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO-3C-2.bw" name="3CTKO-3C-rep2" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="85.35502" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="Ab-RNA-TKO-3CHA.bw" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="244,162,97" fontSize="10" id="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO-3CHA.bw" name="3CTKO-3CHA-rep1" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="91.128914" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="Ab-RNA-TKO-3CHA-2.bw" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="244,162,97" fontSize="10" id="D:\OneDrive\01 project\zhenglab\3C_BS\processed_bw\ucsc_custom_bw\rnaseq\Ab-RNA-TKO-3CHA-2.bw" name="3CTKO-3CHA-rep2" renderer="BAR_CHART" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="85.05401" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <Panel height="80" name="FeaturePanel" width="1117">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="Refseq Genes" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;466.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="https://hgdownload.soe.ucsc.edu/goldenPath/mm10/database/ncbiRefSeq.txt.gz" name="Refseq Genes" visible="true"/>
+        <Track attributeKey="Refseq Genes" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;466.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="https://hgdownload.soe.ucsc.edu/goldenPath/mm10/database/ncbiRefSeq.txt.gz" name="Refseq Genes" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.8706739526411658"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
