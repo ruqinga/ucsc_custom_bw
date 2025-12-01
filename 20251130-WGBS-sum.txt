@@ -1,0 +1,227 @@
+hub 202510-WGBS-sum
+shortLabel DNMT3C
+longLabel WGBS_associated_with_DNMT3C-2510
+useOneFile on
+email qushy@shanghaitech.edu.cn
+
+genome mm10
+
+track 3CTKO_42_3COE_45_rep1_raw_t5
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135adca86c9d43cd27a/display?to_ext=bigwig
+shortLabel 3CTKO_42_3COE_45
+longLabel 3CTKO_42_3COE_45_rep1_raw_t5_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 153,0,0
+priority 221
+
+track 3CTKO_42_3COE_45_rep2_raw_bin_100_t10
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d12f5fd78b61a0c5/display?to_ext=bigwig
+shortLabel 3CTKO_42_3COE_45
+longLabel 3CTKO_42_3COE_45_rep2_raw_bin_100_t10_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 153,0,0
+priority 223
+
+track DKO_1_U2KO_26_rep1_t5
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135098e49ea0e50f8df/display?to_ext=bigwig
+shortLabel DKO_1_U2KO_26
+longLabel DKO_1_U2KO_26_rep1_t5_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 218,117,117
+priority 225
+
+track 3CTKO_7_rep2_raw_t5
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a60004bcf5b0be55/display?to_ext=bigwig
+shortLabel 3CTKO_7
+longLabel 3CTKO_7_rep2_raw_t5_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 235,132,2
+priority 226
+
+track 3CTKO_16_rep1_t5
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213519e8932244f66b64/display?to_ext=bigwig
+shortLabel 3CTKO_16
+longLabel 3CTKO_16_rep1_t5_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 235,132,2
+priority 227
+
+track 3CTKO_42_rep2_bin_100_t10
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e0c8ce5c42f8e1a4/display?to_ext=bigwig
+shortLabel 3CTKO_42
+longLabel 3CTKO_42_rep2_bin_100_t10_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 235,132,2
+priority 228
+
+track PGC_E13M_single_embryo_bin_100_t10
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353030a4f557db0a03/display?to_ext=bigwig
+shortLabel PGC_E13M_single_embryo
+longLabel PGC_E13M_single_embryo_bin_100_t10_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 0,0,0
+priority 229
+
+track 3CTKO_7_rep1_raw_t5
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135269347379fdf82f3/display?to_ext=bigwig
+shortLabel 3CTKO_7
+longLabel 3CTKO_7_rep1_raw_t5_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 235,132,2
+priority 230
+
+track QKO_27_rep1_bin_100_t10
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213593e576e3b73f9c0a/display?to_ext=bigwig
+shortLabel QKO_27
+longLabel QKO_27_rep1_bin_100_t10_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 153,102,0
+priority 231
+
+track 3CTKO_42_rep2_t5
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359e29114da646099c/display?to_ext=bigwig
+shortLabel 3CTKO_42
+longLabel 3CTKO_42_rep2_t5_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 235,132,2
+priority 232
+
+track 3CTKO_20_rep1_t5
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213599e557a1e04b3046/display?to_ext=bigwig
+shortLabel 3CTKO_20
+longLabel 3CTKO_20_rep1_t5_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 235,132,2
+priority 233
+
+track 3CTKO_42_3COE_45_rep2_raw_t5
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135adca86c9d43cd27a/display?to_ext=bigwig
+shortLabel 3CTKO_42_3COE_45
+longLabel 3CTKO_42_3COE_45_rep2_raw_t5_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 0,0,0
+priority 234
+
+track 3CTKO_42_3COE_45_rep2_raw_bin_100_t10
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d12f5fd78b61a0c5/display?to_ext=bigwig
+shortLabel 3CTKO_42_3COE_45
+longLabel 3CTKO_42_3COE_45_rep2_raw_bin_100_t10_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 0,0,0
+priority 235
+
+track 3CTKO_7_rep2_raw_bin_100_t10
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213523dd2afa238b380e/display?to_ext=bigwig
+shortLabel 3CTKO_7
+longLabel 3CTKO_7_rep2_raw_bin_100_t10_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 235,132,2
+priority 236
+
+track QKO_3COE_26_rep1_t5
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dff2e364c98e8343/display?to_ext=bigwig
+shortLabel QKO_3COE_26
+longLabel QKO_3COE_26_rep1_t5_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 182,124,54
+priority 237
+
+track QKO_3COE_26_rep1_bin_100_t10
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dff2e364c98e8343/display?to_ext=bigwig
+shortLabel QKO_3COE_26
+longLabel QKO_3COE_26_rep1_bin_100_t10_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 182,124,54
+priority 238
+
+track QKO_27_rep2_raw_bin_100_t10
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135857ce31776171e57/display?to_ext=bigwig
+shortLabel QKO_27
+longLabel QKO_27_rep2_raw_bin_100_t10_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 153,102,0
+priority 239
+
+track 3CTKO_7_rep1_raw_bin_100_t10
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fbf5d1f44391b60b/display?to_ext=bigwig
+shortLabel 3CTKO_7
+longLabel 3CTKO_7_rep1_raw_bin_100_t10_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 235,132,2
+priority 240
+
+track 3CTKO_42_U2KO_33_rep1_t5
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f297d738ed85dc36/display?to_ext=bigwig
+shortLabel 3CTKO_42_U2KO_33
+longLabel 3CTKO_42_U2KO_33_rep1_t5_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 220,171,105
+priority 241
+
+track 3CTKO_20_rep1_bin_100_t10
+type bigWig
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352bf13837d5985be0/display?to_ext=bigwig
+shortLabel 3CTKO_20
+longLabel 3CTKO_20_rep1_bin_100_t10_WGBS
+visibility full
+autoScale off
+viewLimits 0:1
+color 235,132,2
+priority 242
