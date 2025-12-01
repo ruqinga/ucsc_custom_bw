@@ -138,17 +138,6 @@ viewLimits 0:1
 color 0,0,0
 priority 234
 
-track 3CTKO_42_3COE_45_rep2_raw_bin_100_t10
-type bigWig
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d12f5fd78b61a0c5/display?to_ext=bigwig
-shortLabel 3CTKO_42_3COE_45
-longLabel 3CTKO_42_3COE_45_rep2_raw_bin_100_t10_WGBS
-visibility full
-autoScale off
-viewLimits 0:1
-color 0,0,0
-priority 235
-
 track 3CTKO_7_rep2_raw_bin_100_t10
 type bigWig
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213523dd2afa238b380e/display?to_ext=bigwig
