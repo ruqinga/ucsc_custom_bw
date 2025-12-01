@@ -1,6 +1,6 @@
-hub 202510-WGBS-sum
+hub 202511-WGBS-sum
 shortLabel DNMT3C
-longLabel WGBS_associated_with_DNMT3C-2510
+longLabel WGBS_associated_with_DNMT3C-2511
 useOneFile on
 email qushy@shanghaitech.edu.cn
 
