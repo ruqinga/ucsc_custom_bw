@@ -1,3 +1,11 @@
+hub Name
+shortLabel PGC
+longLabel PGC
+useOneFile on
+email leixy2023@shanghaitech.edu.cn
+
+genome mm10
+
 track name E10.5fPGC_PE_sorted_bin_100_t5.bw
 type bigWig
 bigDataUrl https://my-ucsc-data.sgp1.cdn.digitaloceanspaces.com/PGC/E10.5fPGC_PE_sorted_bin_100_t5.bw
