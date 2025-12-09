@@ -1,0 +1,65 @@
+track name E10.5fPGC_PE_sorted_bin_100_t5.bw
+type bigWig
+bigDataUrl https://my-ucsc-data.sgp1.cdn.digitaloceanspaces.com/PGC/E10.5fPGC_PE_sorted_bin_100_t5.bw
+shortLabel E10.5fPGC_PE
+longLabel E10.5fPGC_PE
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 255,0,0
+priority 10
+
+track name E10.5mPGC_PE_sorted_bin_100_t5.bw
+type bigWig
+bigDataUrl https://my-ucsc-data.sgp1.cdn.digitaloceanspaces.com/PGC/E10.5mPGC_PE_sorted_bin_100_t5.bw
+shortLabel E10.5mPGC_PE
+longLabel E10.5mPGC_PE
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 255,255,0
+priority 20
+
+track name E13.5fPGC_PE_sorted_bin_100_t5.bw
+type bigWig
+bigDataUrl https://my-ucsc-data.sgp1.cdn.digitaloceanspaces.com/PGC/E13.5fPGC_PE_sorted_bin_100_t5.bw
+shortLabel E13.5fPGC_PE
+longLabel E13.5fPGC_PE
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 0,255,0
+priority 30
+
+track name E13.5mPGC_PE_sorted_bin_100_t5.bw
+type bigWig
+bigDataUrl https://my-ucsc-data.sgp1.cdn.digitaloceanspaces.com/PGC/E13.5mPGC_PE_sorted_bin_100_t5.bw
+shortLabel E13.5mPGC_PE
+longLabel E13.5mPGC_PE
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 0,255,255
+priority 40
+
+track name E16.5fPGC_SR_sorted_bin_100_t5.bw
+type bigWig
+bigDataUrl https://my-ucsc-data.sgp1.cdn.digitaloceanspaces.com/PGC/E16.5fPGC_SR_sorted_bin_100_t5.bw
+shortLabel E16.5fPGC_SR
+longLabel E16.5fPGC_SR
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 0,0,255
+priority 50
+
+track name E16.5mPGC_PE_sorted_bin_100_t5.bw
+type bigWig
+bigDataUrl https://my-ucsc-data.sgp1.cdn.digitaloceanspaces.com/PGC/E16.5mPGC_PE_sorted_bin_100_t5.bw
+shortLabel E16.5mPGC_PE
+longLabel E16.5mPGC_PE
+visibility full
+autoScale off
+viewLimits 0:1.0
+color 255,0,255
+priority 60
